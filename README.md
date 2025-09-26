@@ -6,7 +6,7 @@ The goal of this task is to **predict customer churn** (whether a customer will 
 ---
 
 ## 🚀 Project Overview
-Customer churn is one of the most critical business challenges, especially in telecom, banking, and subscription-based services.  
+Customer churn is one of the most critical business challenges, especially in the telecom, banking, and subscription-based services.  
 By predicting churn, companies can take proactive steps to retain customers.
 
 In this project:
